@@ -1,4 +1,4 @@
 [[redirects]]
-from = "/*"
-to = "/index2.html"
+from = "//index2.html"
+to = "https://www.linkedin.com/in/sharathbandaari/"
 status = 200
