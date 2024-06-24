@@ -157,15 +157,23 @@ a:hover{
 }
 
  
-/* .dp img{
+ .dp img{
    height: 400px;
    width: 400px;
    border-radius: 50%;
-}  */
+}  
+
+img prof{
+     height: 300px;
+     width: 300px;
+     border-radius: 50%;
+
+}
+
 
 img{
    height: 300px;
-   width: 350px;
+   width: 300px;
    border-radius: 10px;
   
 }  
@@ -471,37 +479,3 @@ footer{
 footer p{
    text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
